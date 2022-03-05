@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/HBGstatus)
+- [Telegram Support Group](https://t.me/HbgTech)
+- [Contact Owner](https://t.me/Muzzu5)
 
 ## License
 
